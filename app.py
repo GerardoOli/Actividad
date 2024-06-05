@@ -11,7 +11,7 @@ def home():
     <body style="font-family: Arial, sans-serif; background-color: #f0f8ff; text-align: center; padding: 20px;">
         <div style="background-color: #fff; padding: 20px; border-radius: 10px; display: inline-block;">
             <h1 style="color: #333;">Gerardo Olivares Aguilar</h1>
-            <p style="color: #666;">Grado: 9 y Grupo: B</p>
+            <p style="color: #666;">Grado: 9 Grupo: B</p>
         </div>
     </body>
     </html>
